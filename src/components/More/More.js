@@ -6,7 +6,9 @@ const More = (props) => {
    const {img, name, price} = props.more;
    
     return (
+        
         <div >
+ 
             <Col>
                 <Card className="more-cart">
                     <Card.Img variant="top" src={img} />

@@ -4,7 +4,7 @@ import './MenuBar.css';
 
 const MenuBar = () => {
     return (
-        <nav className="bg-dark p-4">
+        <nav className=" nav-color p-4">
             <NavLink className="menubar" to="/home">Home</NavLink>
             <NavLink className="menubar" to="/more">Services</NavLink>
             <NavLink className="menubar" to="/about">About</NavLink>

@@ -19,7 +19,10 @@ const MoreService = () => {
 
                 <Row xs={1} md={3} className="g-4">
                        {
-                           more.map(mr => <More more={mr}></More>)
+                           more.map(info => <More
+                            key={info.id} 
+                            more={info}
+                            ></More>)
                        }
                 </Row>
             <Footer></Footer>

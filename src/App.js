@@ -12,6 +12,7 @@ import Footer from './components/Footer/Footer';
 import Service from './components/Service/Service';
 import MoreService from './components/MoreService/MoreService';
 import More from './components/More/More';
+import Header from './components/Header/Header';
 
 
 function App() {
@@ -20,6 +21,7 @@ function App() {
     <div className="App">
       <Router>
         <MenuBar></MenuBar>
+        <Header></Header>
 
         <Switch>
           <Route exact path="/">

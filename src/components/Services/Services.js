@@ -3,6 +3,8 @@ import { Row } from 'react-bootstrap';
 import Footer from '../Footer/Footer';
 import Home from '../Home/Home';
 import MoreService from '../MoreService/MoreService';
+import PopularService from '../PopularService/PopularService';
+import OurTeacher from '../PopularService/PopularService';
 import Service from '../Service/Service';
 import './Services.css';
 
@@ -19,7 +21,9 @@ const Services = () => {
 
 
     return (
+      
         <div>
+             
             <h1 className="service-heading">Our Services</h1>
 
           
@@ -33,6 +37,8 @@ const Services = () => {
                     ></Service>)
                 }
             </Row>
+          
+           <PopularService></PopularService>
             <Footer></Footer>
         </div>
     );
