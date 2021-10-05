@@ -1,10 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { Row } from 'react-bootstrap';
 import Footer from '../Footer/Footer';
-import Home from '../Home/Home';
-import MoreService from '../MoreService/MoreService';
 import PopularService from '../PopularService/PopularService';
-import OurTeacher from '../PopularService/PopularService';
 import Service from '../Service/Service';
 import './Services.css';
 
@@ -19,7 +16,7 @@ const Services = () => {
             .then(data => setServices(data))
     }, [])
 
-
+//    More services
     return (
       
         <div>

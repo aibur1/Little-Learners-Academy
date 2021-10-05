@@ -3,6 +3,7 @@ import { NavLink } from 'react-router-dom';
 import './MenuBar.css';
 
 const MenuBar = () => {
+    // Menubar
     return (
         <nav className=" nav-color p-4">
             <NavLink className="menubar" to="/home">Home</NavLink>

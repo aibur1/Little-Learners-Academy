@@ -3,6 +3,7 @@ import { Card, Col, Row } from 'react-bootstrap';
 import './PopularService.css';
 
 const PopularService = () => {
+    // showing popular service
     return (
         <div className="my-5">
             <h2 className="title mb-5">WHY WE POPULAR</h2>

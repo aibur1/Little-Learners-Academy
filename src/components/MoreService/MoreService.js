@@ -2,7 +2,6 @@ import React, { useEffect, useState } from 'react';
 import { Row } from 'react-bootstrap';
 import Footer from '../Footer/Footer';
 import More from '../More/More';
-import Services from '../Services/Services';
 import './MoreService.css';
 
 const MoreService = () => {
@@ -15,6 +14,7 @@ const MoreService = () => {
     }, [])
 
     return (
+        // more services with react cart
         <div>
 
                 <Row xs={1} md={3} className="g-4">

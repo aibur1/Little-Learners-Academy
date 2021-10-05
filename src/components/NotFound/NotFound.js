@@ -1,6 +1,7 @@
 import React from 'react';
 
 const NotFound = () => {
+    // Not found page
     return (
         <div>
             <h3>404</h3>

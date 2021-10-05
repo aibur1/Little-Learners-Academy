@@ -4,7 +4,7 @@ import './More.css';
 
 const More = (props) => {
    const {img, name, price} = props.more;
-   
+//    showing more service
     return (
         
         <div >

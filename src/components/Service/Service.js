@@ -6,7 +6,7 @@ import './Service.css';
 const  Service = (props) => {
     const { name, img, price } = props?.service;
     return (
-
+    // single service
        <div>
             <Col>
             <Card className="cart">
