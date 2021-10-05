@@ -1,0 +1,15 @@
+.img-bg{
+   background-color:lavender;
+   height: 500px;
+}
+.heading{
+    margin-top: 150px;
+}
+.heading-color{
+    font-weight:bold;
+    color:rgb(12, 64, 116);
+}
+.lla-bg{
+ 
+    background-image: url(../../image//bg-2.png);
+}

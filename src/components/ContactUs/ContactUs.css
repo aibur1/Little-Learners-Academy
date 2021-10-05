@@ -1,0 +1,14 @@
+.contact{
+   margin:100px;
+   background-color:rgb(250, 246, 239);
+}
+
+.bg-color{
+    background-color:rgb(255, 252, 252);
+}
+
+.contact-btn{
+    width: 150px;
+   background-color: rgb(208, 208, 209);
+   font-size: 20px;
+}

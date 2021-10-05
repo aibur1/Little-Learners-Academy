@@ -1,0 +1,12 @@
+.more-service{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+}
+.single-service{
+    border:1px solid blue;
+    border-radius: 10px;
+    padding:30px;
+
+}
+

@@ -1,0 +1,31 @@
+
+.main{
+   
+    margin-top: 100px;
+
+  
+}
+
+
+.about-section{
+    height: 500px;
+    margin-top: 50px;
+}
+
+.about-desc{
+  margin-top: 80px;
+ 
+}
+.about-img{
+    background-image: url(../../image/array\ slice.jpg);
+    background-repeat: no-repeat;
+    margin-left: 40px;
+  
+}
+.curri-img{
+    background-image: url(../../image/about-2.jpg);
+}
+
+.curriculum{
+    margin-top: 150px;
+}

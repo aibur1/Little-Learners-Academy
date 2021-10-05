@@ -1,0 +1,27 @@
+[
+    {
+      " id ": 1,
+      "name": "Hand Writing",
+      "price": 2000,
+      "img": "https://kids-first.com.au/wp-content/uploads/2017/02/handwriting-hand-over-hand.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Drawing",
+      "price": 3000,
+      "img": "https://www.incimages.com/uploaded_files/image/1920x1080/getty_626780908_2000133320009280303_397791.jpg"
+    },
+    {
+      "id": 3,
+      "name": "School Supplies",
+      "price": 2500,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2G3nEzkFlYIn-nmz91zt2279CfvHBZd_l_WLsd-sj_YKcEhRAbOFoX_pptMiHtAGsDvM&usqp=CAU"
+    },
+    {
+      "id": 4,
+      "name": "Painting",
+      "price": 2000,
+      "img": "https://previews.123rf.com/images/poznyakov/poznyakov1710/poznyakov171000151/87810219-child-painting-on-easel-kid-boy-learn-paint-by-brush-in-class-school-kindergarten-interior-on-backgr.jpg"
+    }
+   
+  ]
